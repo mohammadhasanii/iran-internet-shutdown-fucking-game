@@ -26,4 +26,7 @@ go run main.go
 ```
 
 
+## Download & Play (Windows)
+download the latest `iran-internet-shutdown-fucking-game.exe`.
 
+[Download for Windows](https://github.com/mohammadhasanii/iran-internet-shutdown-fucking-game/blob/master/iran-internet-shutdown-fucking-game.exe)
