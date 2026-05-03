@@ -18,7 +18,7 @@ So take your shutdown and shove it up your ass. The internet will return. The wo
 
 ---
 
-## 🚀 Run it
+## Run it
 
 ```bash
 go run main.go
@@ -27,6 +27,6 @@ go run main.go
 
 
 ## Download & Play (Windows)
-download the latest `iran-internet-shutdown-fucking-game.exe`.
+download the latest `iran-internet-shutdown-fucking-game.exe`
 
 [Download for Windows](https://github.com/mohammadhasanii/iran-internet-shutdown-fucking-game/blob/master/iran-internet-shutdown-fucking-game.exe)
